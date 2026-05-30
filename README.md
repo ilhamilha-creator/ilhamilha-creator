@@ -22,4 +22,4 @@ Python | TensorFlow | PyTorch | LangChain | Docker | FastAPI | Kafka | React
 
 ## 📫 Contact
 📧 ilhamelbaraka70@gmail.com  
-💼 linkedin.com/in/ilham-el-baraka
+💼 www.linkedin.com/in/ilham-el-baraka-4aa451346/
