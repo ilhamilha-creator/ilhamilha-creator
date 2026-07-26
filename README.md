@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ilham EL-BARAKA
 
-🎓 4th-year AI Engineering Student @ ISGA Casablanca (Edvantis Group)  
+🎓 4th-year AI Engineering Student @ ISGA Rabat (Edvantis Group)  
 🔬 Specializing in AI, Machine Learning, Big Data & Cybersecurity  
 🌍 Based in Morocco | Open to Remote Internships
 
