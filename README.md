@@ -11,7 +11,7 @@ I design and ship AI systems end to end: data pipelines, model validation, LLM a
 
 ## Featured Projects
 
-### [medai-health-platform](https://github.com/ilhamilha-creator/medai-health-platform) | Care Coordination & Healthcare AI
+### medai-health-platform | Care Coordination & Healthcare AI
 - LangChain agents for care-plan synthesis, intervention follow-up, symptom analysis and urgency assessment
 - Temporal change detection (CUSUM, EWMA, Z-score) over a simulated longitudinal EHPAD care memory (100 residents, ~54k observations over 6 months)
 - Document integration (PDF extraction) and a RAG pipeline (FAISS) over a medical corpus
